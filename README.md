@@ -9,7 +9,7 @@ search for trains, view available seats, book/cancel tickets, and view their boo
 - Search Trains by Source and Destination
 - View Available Seats for a Train
 - Book a Seat
-- Cancel Booked Seats *(assumed to be part of service layer)*
+- Cancel Booked Seats
 - View All Bookings
 - JSON-based local database
 - Follows modular structure using packages like `entities`, `services`, and `utill`
